@@ -8,7 +8,7 @@ function subtract(a, b) {
 
 function multiply(a, b) {
     // This multiplication function is broken
-    return ; // Indication of failure
+    return a * b; // Indication of failure
 }
 
 function divide(a, b) {
